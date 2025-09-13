@@ -377,7 +377,7 @@ h11==0.16.0 \
     # via
     #   httpcore
     #   llama-stack
-hf-xet==1.1.9 \
+hf-xet==1.1.10 \
     --hash=sha256:5aad3933de6b725d61d51034e04174ed1dce7a57c63d530df0014dea15a40127 \
     --hash=sha256:86754c2d6d5afb11b0a435e6e18911a4199262fe77553f8c50d75e21242193ea \
     --hash=sha256:96a6139c9e44dad1c52c52520db0fffe948f6bce487cfb9d69c125f254bb3790 \
