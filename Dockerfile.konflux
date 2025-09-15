@@ -1,0 +1,17 @@
+FROM registry.redhat.io/ubi9/python-312@sha256:a3af61fdae215cd8d8f67f8f737064b353dc0592567099de48b3c2563314810d
+
+WORKDIR /usr/local/src/kfp/components
+
+COPY . .
+
+RUN pip install --no-cache-dir -e .
+
+LABEL com.redhat.component="odh-trustyai-ragas-lls-provider-dsp-rhel9" \
+      name="rhoai/odh-trustyai-ragas-lls-provider-dsp-rhel9" \
+      description="odh-trustyai-ragas-lls-provider-dsp" \
+      summary="odh-trustyai-ragas-lls-provider-dsp" \
+      maintainer="['managed-open-data-hub@redhat.com']" \
+      io.openshift.expose-services="" \
+      io.k8s.display-name="odh-trustyai-ragas-lls-provider-dsp" \
+      io.k8s.description="odh-trustyai-ragas-lls-provider-dsp" \
+      com.redhat.license_terms="https://www.redhat.com/licenses/Red_Hat_Standard_EULA_20191108.pdf"
