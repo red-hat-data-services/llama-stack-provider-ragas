@@ -747,7 +747,7 @@ multidict==6.6.4 \
     # via
     #   aiohttp
     #   yarl
-multiprocess==0.70.15 \
+multiprocess==0.70.18 \
     --hash=sha256:0eac53214d664c49a34695e5824872db4006b1a465edd7459a251809c3773370 \
     --hash=sha256:134f89053d82c9ed3b73edd3a2531eb791e602d4f4156fc92a79259590bd9670 \
     --hash=sha256:18f9f2c7063346d1617bd1684fdcae8d33380ae96b99427260f562e1a1228b67 \
