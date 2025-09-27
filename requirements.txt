@@ -550,7 +550,7 @@ langsmith==0.4.27 \
     #   langchain
     #   langchain-community
     #   langchain-core
-llama-stack==0.2.11 \
+llama-stack==0.2.23 \
     --hash=sha256:6ff347cd408577c96c8def7e2ec1912e0709cb02c0e2ed52a1762b68be9ddc31 \
     --hash=sha256:a7bc82396f27b1c891346d261bc908a803a9aaec6e39c95753dff038636ef279
     # via llama-stack-provider-ragas (pyproject.toml)
