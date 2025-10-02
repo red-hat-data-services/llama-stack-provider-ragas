@@ -535,7 +535,7 @@ langchain-core==0.3.76 \
     #   langchain-openai
     #   langchain-text-splitters
     #   ragas
-langchain-openai==0.3.33 \
+langchain-openai==0.3.34 \
     --hash=sha256:2d52aab6d2af61da9bb9470616ce782128f4be59df965caee3dece30ae6b2bc4 \
     --hash=sha256:2dec058332ea9e8977cd91df6515b95952e187ac7484f349c3fe91d936a92375
     # via ragas
