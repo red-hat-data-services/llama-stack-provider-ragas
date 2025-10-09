@@ -25,9 +25,17 @@ spec:
   - name: output-image
     value: quay.io/redhat-user-workloads/rhoai-tenant/llama-stack-provider-ragas-poc:{{revision}}
   - name: dockerfile
-    value: Containerfile
+    value: Dockerfile.konflux
   - name: path-context
     value: .
+  - name: build-image-index
+    value: true
+  - name: build-platforms
+    value:
+    - linux/x86_64
+    - linux-m2xlarge/arm64
+    - linux/ppc64le
+    - linux/s390x
   # - name: prefetch-input
   #   value: '{"type": "pip", "path": ".", "requirements_files": ["requirements.txt"]}'
   pipelineSpec:
