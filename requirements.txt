@@ -1256,7 +1256,7 @@ packaging==25.0 \
     #   langsmith
     #   marshmallow
     #   setuptools-scm
-pandas==2.2.3 \
+pandas==2.3.3 \
     --hash=sha256:062309c1b9ea12a50e8ce661145c6aab431b1e99530d3cd60640e255778bd43a \
     --hash=sha256:15c0e1e02e93116177d29ff83e8b1619c93ddc9c49083f237d4312337a61165d \
     --hash=sha256:1948ddde24197a0f7add2bdc4ca83bf2b1ef84a1bc8ccffd95eda17fd836ecb5 \
