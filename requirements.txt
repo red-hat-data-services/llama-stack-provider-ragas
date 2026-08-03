@@ -847,9 +847,9 @@ llama-stack==0.2.22 \
     --hash=sha256:576752dedc9e9f0fb9da69f373d677d8b4f2ae4203428f676fa039b6813d8450 \
     --hash=sha256:c6bbda6b5a4417b9a73ed36b9d581fd7ec689090ceefd084d9a078e7acbdc670
     # via llama-stack-provider-ragas (pyproject.toml)
-llama-stack-client==0.2.23 \
-    --hash=sha256:68f34e8ac8eea6a73ed9d4977d849992b2d8bd835804d770a11843431cd5bf74 \
-    --hash=sha256:eee42c74eee8f218f9455e5a06d5d4be43f8a8c82a7937ef51ce367f916df847
+llama-stack-client==0.7.5 \
+    --hash=sha256:80d419bbcb8b1cec2e190536e576576ed2fbbf47882465d72fc6061ef9dcadb2 \
+    --hash=sha256:fd3fefff6c8edf18d3e6e3a951dae350b0f28a2b9ec6c9faa368d03f72a16db4
     # via llama-stack
 markdown-it-py==4.0.0 \
     --hash=sha256:87327c59b172c5011896038353a81343b6754500a08cd7a4973bb48c6d578147 \
