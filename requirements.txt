@@ -2119,9 +2119,9 @@ rsa==4.9.1 \
     --hash=sha256:68635866661c6836b8d39430f97a996acbd61bfa49406748ea243539fe239762 \
     --hash=sha256:e7bdbfdb5497da4c07dfd35530e1a902659db6ff241e39d9953cad06ebd0ae75
     # via python-jose
-setuptools-scm==9.2.0 \
-    --hash=sha256:6662c9b9497b6c9bf13bead9d7a9084756f68238302c5ed089fb4dbd29d102d7 \
-    --hash=sha256:c551ef54e2270727ee17067881c9687ca2aedf179fa5b8f3fab9e8d73bdc421f
+setuptools-scm==10.2.2 \
+    --hash=sha256:36b5dcef6bbeee0bc76b7756d1b574b3762e2138611a4f18e898f22f1aaee462 \
+    --hash=sha256:509585ce0628ede1c64ab1e40e7464481fb880c80a388effce9067bf6b2142fe
     # via llama-stack-provider-ragas (pyproject.toml)
 six==1.17.0 \
     --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274 \
