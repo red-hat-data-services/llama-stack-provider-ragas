@@ -1,4 +1,4 @@
-FROM registry.redhat.io/ubi9/python-312@sha256:558341c02c51ee12820185b203edaa953f18d1c2ac4426947547edd9cea44ff0
+FROM registry.redhat.io/ubi9/python-312@sha256:e6a10c3150624fbfd33dbd7721ef99ce7a1001b417d64427ad58515ab8044121
 
 WORKDIR /usr/local/src/kfp/components
 
