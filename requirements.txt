@@ -793,9 +793,9 @@ jiter==0.11.1 \
     --hash=sha256:fe04ea475392a91896d1936367854d346724a1045a247e5d1c196410473b8869 \
     --hash=sha256:fe4a431c291157e11cee7c34627990ea75e8d153894365a3bc84b7a959d23ca8
     # via openai
-jsonpatch==1.33 \
-    --hash=sha256:0ae28c0cd062bbd8b8ecc26d7d164fbbea9652a1a3693f3b956c1eae5145dade \
-    --hash=sha256:9fcd4009c41e6d12348b4a0ff2563ba56a2923a7dfee731d004e212e1ee5030c
+jsonpatch==1.41 \
+    --hash=sha256:1aca06402f94e5cd7bc133af0cb4f7b2c2f9c0bc172f9de52c9aa4c6104b0d1c \
+    --hash=sha256:fd493e82a57da7dd60e22ff2521f75d2be3ce41d76a845799d898de6da682922
     # via langchain-core
 jsonpointer==3.0.0 \
     --hash=sha256:13e088adc14fca8b6aa8177c044e12701e6ad4b28ff10e65f2267a90109c9942 \
